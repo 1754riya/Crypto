@@ -24,12 +24,12 @@ export default function ContactPage() {
 
   const faqItems = [
     {
-      question: "What is A-Crypto?",
+      question: "What is CRypto?",
       answer:
-        "A-Crypto is a leading crypto trading platform offering a wide range of services including P2P trading, token swaps, and more.\n\nOur platform is designed to provide a secure, user-friendly, and efficient trading experience for both beginners and experienced traders.",
+        "CRypto is a leading crypto trading platform offering a wide range of services including P2P trading, token swaps, and more.\n\nOur platform is designed to provide a secure, user-friendly, and efficient trading experience for both beginners and experienced traders.",
     },
     {
-      question: "How does A-Crypto ensure the security of my funds?",
+      question: "How does CRypto ensure the security of my funds?",
       answer:
         "We implement multiple layers of security including cold storage, two-factor authentication, and regular security audits.",
     },
@@ -39,9 +39,9 @@ export default function ContactPage() {
         "We support a wide range of cryptocurrencies including Bitcoin, Ethereum, and many other popular altcoins.",
     },
     {
-      question: "Is A-Crypto available worldwide?",
+      question: "Is CRypto available worldwide?",
       answer:
-        "Yes, A-Crypto is available in most countries worldwide, with some restrictions based on local regulations.",
+        "Yes, CRypto is available in most countries worldwide, with some restrictions based on local regulations.",
     },
     {
       question: "What are the fees for using A-Crypto?",
@@ -49,7 +49,7 @@ export default function ContactPage() {
         "Our fee structure is competitive and transparent. Please check our fee schedule for detailed information.",
     },
     {
-      question: "How can I get started with A-Crypto?",
+      question: "How can I get started with CRypto?",
       answer:
         "Simply register for an account, complete the verification process, and you can start trading immediately.",
     },
@@ -65,7 +65,7 @@ export default function ContactPage() {
       <header className="bg-gradient-to-r from-purple-600 to-purple-800 text-white">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <div className="text-xl font-bold">A-Crypto</div>
+            <div className="text-xl font-bold">CRypto</div>
             <nav className="hidden md:flex items-center space-x-8">
               <a href="#" className="hover:text-purple-200">
                 Home
@@ -317,7 +317,7 @@ export default function ContactPage() {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">A-Crypto</h3>
+              <h3 className="text-xl font-bold mb-4">CRypto</h3>
               <p className="text-purple-200 mb-6">Trade crypto easily anytime, anywhere.</p>
               <div className="flex space-x-3">
                 <div className="w-8 h-8 bg-purple-600 rounded-full flex items-center justify-center">
